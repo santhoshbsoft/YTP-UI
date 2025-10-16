@@ -7,7 +7,7 @@
       </div>
     </div>
 
-    <div class="container max-w-7xl mx-auto px-8 py-8">
+    <div class="px-6 py-16 md:px-16">
       <!-- Search Form -->
       <div class="bg-white rounded-2xl shadow-lg p-8 mb-8">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">

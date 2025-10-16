@@ -7,7 +7,7 @@
       </div>
     </div>
 
-    <div class=" w-full px-8 py-16 md:px-6 md:py-6">
+    <div class=" w-full px-6 py-16 md:px-16">
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">
         <div 
           v-for="post in blogPosts" 

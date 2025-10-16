@@ -7,7 +7,7 @@
       </div>
     </div>
 
-    <div class="container max-w-7xl mx-auto px-8 py-16">
+    <div class="px-6 py-16 md:px-16">
       <div class="text-center mb-12">
         <h2 class="text-3xl font-bold text-gray-800 mb-4">Choose Your Adventure</h2>
         <p class="text-xl text-gray-600">From adventure seekers to culture enthusiasts, we have the perfect package for everyone</p>

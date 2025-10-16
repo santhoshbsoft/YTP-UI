@@ -2,12 +2,12 @@
   <div class="contact-page">
     <div class="bg-gradient-to-r from-green-800 to-green-600 text-white py-16">
       <div class="container max-w-7xl mx-auto px-8 text-center">
-        <h1 class="text-4xl md:text-6xl font-bold mb-4">📞 Contact Us</h1>
+        <h1 class="text-4xl md:text-6xl font-bold mb-4"> Contact Us</h1>
         <p class="text-xl md:text-2xl opacity-90">Get in touch with us for any queries or assistance</p>
       </div>
     </div>
 
-    <div class="container max-w-7xl mx-auto px-8 py-16">
+    <div class="px-6 py-16 md:px-16">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
         <!-- Contact Form -->
         <div class="bg-white rounded-xl shadow-lg p-8">

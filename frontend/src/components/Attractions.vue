@@ -7,7 +7,7 @@
       </div>
     </div>
 
-    <div class="container max-w-7xl mx-auto px-8 py-16">
+    <div class="px-6 py-16 md:px-16">
       <!-- Featured Attractions -->
       <section class="mb-16">
         <h2 class="text-3xl font-bold text-center text-gray-800 mb-4">Must-Visit Attractions</h2>
