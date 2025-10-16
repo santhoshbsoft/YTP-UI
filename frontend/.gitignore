@@ -1,8 +1,42 @@
-node_modules
-.DS_Store
-dist
-dist-ssr
+# node_modules
+# .DS_Store
+# dist
+# dist-ssr
+# *.local
+# coverage
+# ../<app-name>
+# sites
+
+
+# Node / Vue
+node_modules/
+dist/
+dist-ssr/
 *.local
-coverage
-../<app-name>
-sites
+coverage/
+yarn-error.log
+npm-debug.log*
+
+# OS / Editor
+.DS_Store
+*.swp
+*.swo
+*.idea/
+*.vscode/
+*.history/
+
+# Frappe / Bench
+sites/
+sites/*/private/
+sites/*/public/files/
+sites/*/logs/
+sites/*/backups/
+sites/*/locks/
+sites/*/local.py
+*.pyc
+*.pyo
+__pycache__/
+.env
+
+# App-specific
+../<app-name>/
