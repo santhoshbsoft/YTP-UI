@@ -1,44 +1,9 @@
 {
-<<<<<<< HEAD
-  "name": "frappe-ui-frontend",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build --base=/assets/ytp/frontend/ && yarn copy-html-entry",
-    "preview": "vite preview",
-    "lint": "biome check --write .",
-    "test": "vitest",
-    "test:run": "vitest run",
-    "test:coverage": "vitest run --coverage",
-    "copy-html-entry": "cp ../ytp/public/frontend/index.html ../ytp/www/frontend.html"
-  },
-  "dependencies": {
-    "feather-icons": "^4.29.2",
-    "frappe-ui": "^0.1.192",
-    "socket.io-client": "^4.7.2",
-    "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "1.9.4",
-    "@vitejs/plugin-vue": "^5.1.4",
-    "@vitest/coverage-v8": "^2.1.8",
-    "autoprefixer": "^10.4.2",
-    "jsdom": "^25.0.1",
-    "postcss": "^8.4.5",
-    "tailwindcss": "^3.4.15",
-    "vite": "^5.4.10",
-    "vitest": "^2.1.8"
-  }
-=======
   "name": "ytp",
   "version": "1.0.0",
-  "description": "ytp",
+  "description": "Frappe app for YTP",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "cd frontend && yarn install",
     "dev": "cd frontend && yarn dev",
     "build": "cd frontend && yarn build"
@@ -46,5 +11,4 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
->>>>>>> origin/dev
 }
