@@ -1,5 +1,5 @@
 <template>
-    <div class="slider-container relative w-full h-96 md:h-[600px] overflow-hidden">
+    <div class="slider-container relative w-full h-96 md:h-[600px] overflow-hidden ">
         <button @click="moveSlide(-1)"
             class="slider-arrow absolute left-4 top-1/2 transform -translate-y-1/2 bg-white bg-opacity-20 hover:bg-opacity-30 text-white text-2xl w-12 h-12 rounded-full flex items-center justify-center transition-all z-10">
             ❮

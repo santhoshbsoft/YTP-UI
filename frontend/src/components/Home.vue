@@ -71,7 +71,7 @@
 
       <!-- Stats Section -->
       <section class="stats bg-gradient-to-r from-blue-500 to-green-400 text-white py-16 rounded-2xl mb-16">
-        <div class="grid grid-cols-1 gap-2 md:grid-cols-4 gap-8">
+        <div class="grid grid-cols-1 gap-2 md:grid-cols-4 md-gap-8">
           <div 
             v-for="stat in stats" 
             :key="stat.label"
