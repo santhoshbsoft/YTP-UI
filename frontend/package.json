@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "frappe-ui-frontend",
   "private": true,
   "version": "0.0.0",
@@ -32,19 +31,4 @@
     "vite": "^5.4.10",
     "vitest": "^2.1.8"
   }
-=======
-  "name": "ytp",
-  "version": "1.0.0",
-  "description": "ytp",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "cd frontend && yarn install",
-    "dev": "cd frontend && yarn dev",
-    "build": "cd frontend && yarn build"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
->>>>>>> origin/dev
 }
